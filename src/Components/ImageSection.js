@@ -4,9 +4,9 @@ import about from '../img/Vinojithan.jpeg';
 function ImageSection() {
     return (
         <div className="ImageSection">
-            <div className="img">
-                {/* <img src={about} alt=""/> */}
-            </div>
+            {/* <div className="img">
+                <img src={about} alt=""/>
+            </div> */}
             <div className="about-info">
                 <h4>I am<span> Vinojithan</span></h4>
                 <p className="about-text">
