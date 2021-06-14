@@ -5,7 +5,7 @@ function ImageSection() {
     return (
         <div className="ImageSection">
             <div className="img">
-                <img src={about} alt=""/>
+                {/* <img src={about} alt=""/> */}
             </div>
             <div className="about-info">
                 <h4>I am<span> Vinojithan</span></h4>

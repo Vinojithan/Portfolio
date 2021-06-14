@@ -11,7 +11,7 @@ function AboutPage() {
     return (
         <div className="AboutPage">
             <Tittle title={'About Me'} span={'About Me'} />
-            {/* <ImageSection /> */}
+            <ImageSection />
             <Tittle title={'My Skills'} span={'My Skills'} />
             <div className="skillsContainer">
                 <SkillsSection skill={'Javascript'} progress={'60%'} width={'60%'} />
