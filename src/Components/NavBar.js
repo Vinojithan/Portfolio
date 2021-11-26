@@ -40,7 +40,7 @@ function Navbar() {
 
                 <footer className="footer">
                     <p>
-                        @2021 DevVj
+                        @2022 DevVj All Rights Reserved!
                     </p>
             </footer>
             </nav>
