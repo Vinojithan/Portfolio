@@ -26,11 +26,11 @@ function ImageSection() {
                     </div>
                     <div className="right-section">
                         <p>: Tharmakulthevan Vinojithan</p>
-                        <p>: 25</p>
-                        <p>: Srilankan Tamil</p>
+                        <p>: 29</p>
+                        // <p>: Srilankan Tamil</p>
                         <p>: Tamil, Sinhala, English</p>
-                        <p>: 236/1 Madasamy kovil road, pandarikulam,Vauniya</p>
-                        <p>: Srilankan</p>
+                        // <p>: 236/1 Madasamy kovil road, pandarikulam,Vauniya</p>
+                        // <p>: Srilankan</p>
                     </div>
                 </div>
                 {/* <button className="btn">Download Cv</button> */}
